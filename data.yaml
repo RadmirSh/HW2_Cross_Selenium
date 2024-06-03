@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+browser: chrome
+sleep_time: 3
+login: Radmi_Shag2
+password: 8a69a78453
+sleep_time_1: 10
